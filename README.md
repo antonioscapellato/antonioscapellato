@@ -1,4 +1,4 @@
-## 👋 Hey there! I'm Antonio
+## 👋 Hey there, I'm Antonio!
 
 Welcome to my corner of GitHub! I'm a tech entrepreneur, tech product manager and engineer who loves building cool things at the intersection of code, creativity, and AI. 🚀
 
