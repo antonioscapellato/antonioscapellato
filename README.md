@@ -1,23 +1,23 @@
-# 👋 Hey there! I'm Antonio Scapellato
+## 👋 Hey there! I'm Antonio Scapellato
 
 Welcome to my corner of GitHub! I'm a tech entrepreneur, tech product manager and engineer who loves building cool things at the intersection of code, creativity, and AI. 🚀
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 - 🖤 Engineer at heart. Entrepreneur by evolution.
 - 🧠 Obsessed with algorithms, startups, and creative problem-solving.
 - 💡 Building products, mentoring founders, and experimenting with ideas at [scapellato.dev](https://www.scapellato.dev).
 
-## 🛠️ What You'll Find Here
+### 🛠️ What You'll Find Here
 - 💻 Handy tools for product managers & devs
 - 🔬 Explorations in algorithms, AI, and data
 - 🎯 Startup experiments & side projects
 - 📚 Code that complements my writing
 
-## 📫 Let's Connect!
+### 📫 Let's Connect!
 - 🌐 [Website](https://www.scapellato.dev)
 - 💼 [LinkedIn](https://www.linkedin.com/in/antonio-scapellato)
 
-## ☕ Fun Facts
+### ☕ Fun Facts
 - I started coding at 13 because I wanted to build a video game.
 - My favorite debugging tool is... walking 🍃
 - I believe creativity is a superpower (especially when paired with coffee).
