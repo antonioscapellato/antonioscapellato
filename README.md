@@ -1,8 +1,8 @@
-## 👋 Hey there, I'm Antonio!
+## 👋🏻 Hey there, I'm Antonio!
 
 Welcome to my corner of GitHub! I'm a tech entrepreneur, tech product manager and engineer who loves building cool things at the intersection of code, creativity, and AI. 🚀
 
-### 👨‍💻 About Me
+### 👨🏻‍💻 About Me
 - 🖤 Engineer at heart. Entrepreneur by evolution.
 - 🧠 Obsessed with algorithms, startups, and creative problem-solving.
 - 💡 Building products, mentoring founders, and experimenting with ideas at [scapellato.dev](https://www.scapellato.dev).
