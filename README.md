@@ -5,7 +5,7 @@ Welcome to my corner of GitHub! I'm a tech entrepreneur, tech product manager an
 ### 👨🏻‍💻 About Me
 - 🖤 Engineer at heart. Entrepreneur by evolution.
 - 🧠 Obsessed with algorithms, startups, and creative problem-solving.
-- 💡 Building products, mentoring founders, and experimenting with ideas at [scapellato.dev](https://www.scapellato.dev).
+- 💡 Building products and experimenting with ideas at [scapellato.dev](https://www.scapellato.dev).
 
 ### 🛠️ What You'll Find Here
 - 💻 Handy tools for product managers & devs
