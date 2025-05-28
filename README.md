@@ -25,7 +25,7 @@ I'm a tech entrepreneur, tech product manager and engineer who loves building co
 - I believe creativity is a superpower (especially when paired with coffee).
 - I love board games
 
-Thanks for stopping by! Star ⭐ something you like, fork 🍴 if you’re curious, or just say hi 👋
+Thanks for stopping by! Star ⭐ something you like, fork 🍴 if you’re curious, or just say hi 👋🏻
 
 > _“Build with purpose. Think like a creator. Lead with curiosity.”_
 
